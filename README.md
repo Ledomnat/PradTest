@@ -2,4 +2,4 @@
 
 This is Git for team session in cs100
 
-I am working with A.
+A and B are working together.
